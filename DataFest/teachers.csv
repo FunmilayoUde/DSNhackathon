@@ -1,101 +1,101 @@
-,Teacher_ID,Student_ID,Marital_Status,Education_Level,Gender,Age,Subject_Taught,Degree,Parental_Status,Teacher_Training,Distance_From_Home_to_School_km,Disability,Health_Issue,Resumption_Time,Have_Lesson_Note,Salary_NGN,Teaching_Experience_Years
-0,8950,79588,Widowed,B.Ed,Female,54,Insurance,B.Sc. Insurance,Yes,Not Trained,33.78,None,None,18:28,No,204574,27
-1,7954,97098,Widowed,NCE,Male,56,History,B.Sc. Environmental Science,Yes,Trained,42.46,None,None,20:58,No,268339,6
-2,3336,86460,Widowed,NCE,Female,53,Civic Education,B.Sc. Agricultural Science,No,Trained,5.5,None,None,15:55,Yes,228285,21
-3,4454,41056,Single,B.Ed,Male,39,Computer Science,B.Sc. Chemistry,Yes,Not Trained,14.67,None,None,19:21,Yes,212794,35
-4,9593,76562,Widowed,NCE,Female,32,Economics,B.A. Music,No,Not Trained,29.97,None,None,19:29,No,84022,7
-5,5321,33992,Married,B.Ed,Male,36,Chemistry,B.Sc. Financial Accounting,No,Not Trained,46.32,None,None,01:04,No,212290,33
-6,5757,47858,Divorced,PhD,Male,41,Literature,B.A. Government and Political Science,Yes,Trained,47.81,None,None,03:50,No,90571,8
-7,1660,63148,Married,NCE,Male,28,Marketing,B.Sc. Biology,No,Not Trained,37.8,None,None,17:41,No,282782,5
-8,2897,64529,Married,PhD,Male,43,Government,B.Sc. Biology,Yes,Not Trained,32.14,None,None,01:48,No,56306,1
-9,4966,62487,Married,NCE,Male,40,Agricultural Science,B.Sc. Marketing,Yes,Not Trained,33.06,None,None,07:34,No,67806,26
-10,5980,18285,Single,B.Ed,Female,58,Economics,B.Sc. Entrepreneurship,No,Trained,30.85,None,None,17:29,No,111439,19
-11,1081,56805,Single,PhD,Female,49,Entrepreneurship,B.Sc. Mathematics,Yes,Trained,26.2,None,None,22:11,Yes,104822,10
-12,9647,39260,Single,NCE,Female,38,Further Mathematics,B.Sc. Biology,No,Trained,11.62,None,None,06:12,Yes,166376,12
-13,8330,63511,Widowed,M.Ed,Female,49,Agricultural Science,M.Ed.,No,Not Trained,38.15,None,None,02:01,No,53797,11
-14,4179,87849,Single,B.Ed,Female,34,Mathematics,B.A. Government and Political Science,No,Trained,4.47,None,None,02:07,No,245084,16
-15,6613,79446,Single,NCE,Female,39,Government,B.Sc. Accounting,No,Not Trained,19.84,None,None,15:09,No,124922,5
-16,5889,34672,Widowed,B.Ed,Male,29,Mathematics,B.Sc. Mathematics,Yes,Not Trained,33.14,None,None,20:17,Yes,134174,32
-17,4889,50756,Widowed,NCE,Male,56,Literature,B.Sc. Economics,Yes,Not Trained,21.38,None,None,01:37,Yes,281577,33
-18,8813,26236,Divorced,NCE,Male,46,Economics,B.A. Linguistics,No,Trained,34.65,None,None,17:55,Yes,174334,22
-19,9660,54500,Divorced,NCE,Female,47,Insurance,B.A. Theatre Arts,Yes,Trained,44.35,None,None,05:18,Yes,281299,34
-20,3236,67749,Widowed,M.Ed,Female,38,Physics,B.Sc. Business Administration,No,Not Trained,13.55,None,None,10:10,No,120025,14
-21,7675,58655,Single,PhD,Male,38,Marketing,B.A. History,Yes,Trained,41.08,None,None,21:22,Yes,237031,10
-22,1755,43586,Married,PhD,Female,54,Chemistry,B.Sc. Computer Science,No,Trained,26.45,None,None,12:06,Yes,51846,3
-23,4472,26912,Divorced,PhD,Male,37,Government,B.Sc. Computer Science,No,Trained,22.12,None,None,14:00,Yes,223555,5
-24,4829,69950,Widowed,M.Ed,Male,44,Drama/Theatre Arts,B.A. Religious Studies,Yes,Trained,26.52,None,None,10:42,No,194789,3
-25,7132,67008,Divorced,B.Ed,Male,55,Marketing,B.Sc. Computer Science,No,Not Trained,22.79,None,None,20:04,Yes,283023,34
-26,3033,33021,Single,NCE,Female,54,IRS,B.Sc. Laboratory Science,No,Not Trained,6.99,None,None,14:25,Yes,134371,5
-27,1874,75517,Widowed,NCE,Male,52,History,B.Sc. Accounting,Yes,Trained,23.15,None,None,23:57,No,62939,1
-28,2678,49221,Divorced,NCE,Male,38,Drama/Theatre Arts,B.A. Theatre Arts,Yes,Not Trained,26.83,None,None,04:11,Yes,292220,31
-29,7071,86372,Single,M.Ed,Male,28,Education,B.Sc. Insurance,Yes,Trained,48.8,None,None,12:06,No,239817,11
-30,8397,95660,Widowed,PhD,Male,52,English,B.Sc. Education,No,Not Trained,20.49,None,None,13:22,No,295602,15
-31,1295,56548,Married,M.Ed,Female,45,Further Mathematics,M.Ed.,Yes,Not Trained,13.04,None,None,10:05,No,173863,10
-32,1778,14288,Single,M.Ed,Female,59,Integrated Science,B.A. History,No,Not Trained,41.94,None,None,03:56,Yes,235048,10
-33,9313,58418,Married,B.Ed,Male,47,English,B.A. Fine Arts,Yes,Trained,33.33,None,None,11:12,Yes,127778,32
-34,7033,15683,Married,M.Ed,Male,57,Marketing,B.Sc. Computer Science,Yes,Not Trained,49.27,None,None,09:53,No,207791,20
-35,2062,40512,Married,M.Ed,Male,34,Biology,B.A. Civic Education,Yes,Not Trained,20.0,None,None,03:20,Yes,217381,29
-36,5740,61849,Single,PhD,Female,54,Entrepreneurship,B.Sc. Accounting,No,Trained,30.34,None,None,02:03,No,70520,34
-37,5681,67984,Divorced,PhD,Male,52,Government,B.Sc. Mathematics,No,Trained,47.13,None,None,22:32,Yes,292536,16
-38,3978,11581,Married,B.Ed,Male,47,Insurance,B.Sc. Commerce,No,Not Trained,33.63,None,None,10:43,Yes,71188,3
-39,1258,18357,Divorced,B.Ed,Male,44,Music,B.A. Music,No,Trained,25.47,None,None,19:54,No,109205,6
-40,8423,17362,Widowed,B.Ed,Female,49,Financial Accounting,B.Sc. Education,Yes,Not Trained,38.25,Physical Disability,None,05:41,Yes,208330,20
-41,5181,39391,Widowed,NCE,Male,29,Biology,B.Sc. Insurance,Yes,Not Trained,34.48,Visual Impairment,Sickle Cell,14:23,No,90741,18
-42,3713,25139,Married,M.Ed,Female,47,Business Studies,B.Sc. Office Management,Yes,Not Trained,35.82,Physical Disability,Heart Disease,01:17,Yes,191179,8
-43,7600,82465,Single,M.Ed,Male,60,Marketing,B.A. Fine Arts,No,Not Trained,17.47,Visual Impairment,Hypertension,22:09,No,85257,1
-44,7893,91439,Widowed,M.Ed,Male,56,Physics,B.Ed.,No,Not Trained,36.14,None,Heart Disease,21:12,No,101459,33
-45,7158,63269,Divorced,NCE,Female,39,Drama/Theatre Arts,B.Sc. Health Science,Yes,Not Trained,28.03,Hearing Impairment,Hypertension,12:20,Yes,278868,35
-46,5856,39358,Single,PhD,Female,26,Office Practice,B.Sc. Marketing,Yes,Trained,23.38,None,Hypertension,20:01,No,157868,14
-47,8474,10074,Single,NCE,Female,40,Insurance,B.Sc. Environmental Science,No,Trained,47.64,Other,Diabetes,05:42,No,201996,20
-48,2468,88504,Married,NCE,Female,56,Health Science,B.A. Music,Yes,Not Trained,1.54,None,Hypertension,18:25,No,160764,18
-49,9555,56179,Widowed,M.Ed,Female,57,Accounting,B.A. History,No,Not Trained,37.7,None,Heart Disease,04:51,Yes,246252,17
-50,5842,48541,Divorced,PhD,Female,45,CRS,B.Sc. Office Management,No,Not Trained,4.32,Other,Diabetes,20:57,Yes,131826,10
-51,3378,71261,Single,PhD,Female,58,Physics,B.Sc. Health Science,No,Trained,3.7,Physical Disability,Sickle Cell,11:46,Yes,213370,22
-52,9769,93810,Divorced,B.Ed,Male,31,Fine Arts,B.A. History,No,Not Trained,40.4,Physical Disability,Other,00:12,No,112794,16
-53,6999,20500,Single,B.Ed,Male,42,Business Studies,B.Sc. Agricultural Science,Yes,Not Trained,38.21,Physical Disability,Hypertension,06:17,No,193139,32
-54,7293,33416,Widowed,B.Ed,Female,44,Education,B.A. Theatre Arts,Yes,Trained,29.36,None,Heart Disease,05:21,No,270246,19
-55,5066,85952,Divorced,PhD,Male,33,Accounting,B.Sc. Commerce,Yes,Not Trained,36.03,Hearing Impairment,None,03:58,No,88738,9
-56,3407,16629,Widowed,NCE,Female,58,Biology,B.A. Religious Studies,Yes,Trained,35.06,Visual Impairment,None,03:44,No,252675,18
-57,6412,45197,Widowed,PhD,Female,37,Commerce,B.A. Theatre Arts,Yes,Trained,26.94,Other,Hypertension,17:38,No,163415,20
-58,2686,51049,Married,NCE,Female,51,Integrated Science,B.Sc. Education,Yes,Trained,16.26,Hearing Impairment,Other,14:52,No,197053,6
-59,5823,87060,Married,PhD,Female,59,Agricultural Science,B.Sc. Entrepreneurship,Yes,Not Trained,39.53,Physical Disability,Asthma,13:14,No,108789,32
-60,1348,13365,Widowed,M.Ed,Female,54,IRS,B.Sc. Environmental Science,No,Not Trained,42.4,Other,Other,00:58,No,72951,33
-61,9199,92614,Married,PhD,Female,51,Accounting,B.Sc. Mathematics,Yes,Not Trained,45.8,None,Asthma,03:32,Yes,112543,22
-62,6072,16014,Married,B.Ed,Female,32,Chemistry,B.Sc. Insurance,Yes,Trained,14.79,Visual Impairment,Heart Disease,08:10,No,193868,17
-63,4185,75435,Widowed,B.Ed,Female,26,Mathematics,B.A. Fine Arts,Yes,Trained,19.83,Hearing Impairment,None,04:13,Yes,53640,31
-64,3869,36465,Widowed,M.Ed,Female,54,Office Practice,B.Sc. Accounting,No,Trained,15.92,Hearing Impairment,Sickle Cell,02:03,No,230278,32
-65,4119,83752,Single,B.Ed,Female,45,Accounting,B.A. Music,Yes,Not Trained,7.52,None,Diabetes,08:14,Yes,55052,3
-66,2775,74921,Married,M.Ed,Male,26,IRS,B.Sc. Commerce,Yes,Not Trained,22.47,Physical Disability,Heart Disease,03:03,Yes,237238,10
-67,4030,68341,Divorced,NCE,Male,45,Financial Accounting,B.A. Linguistics,Yes,Not Trained,1.91,Hearing Impairment,None,08:01,Yes,229618,14
-68,4654,84420,Widowed,PhD,Female,50,Integrated Science,B.Sc. Chemistry,Yes,Not Trained,18.21,Visual Impairment,Other,22:56,Yes,107174,9
-69,3314,69905,Married,M.Ed,Female,30,Biology,B.A. Literature,No,Trained,49.28,Other,Heart Disease,07:30,Yes,296326,33
-70,8043,13201,Divorced,B.Ed,Female,31,English,B.Sc. Environmental Science,Yes,Not Trained,41.82,Visual Impairment,Hypertension,21:21,Yes,115468,13
-71,7622,98754,Divorced,NCE,Male,47,CRS,B.A. English,No,Trained,26.43,Visual Impairment,Other,04:18,Yes,197346,6
-72,1897,48452,Divorced,M.Ed,Male,47,Literature,B.Sc. Insurance,No,Trained,16.79,Hearing Impairment,Asthma,00:27,Yes,101827,4
-73,7681,73273,Single,PhD,Male,48,Drama/Theatre Arts,B.Ed.,Yes,Trained,42.21,Other,Asthma,07:06,No,267735,5
-74,1376,33865,Single,PhD,Male,31,Office Practice,B.Sc. Marketing,No,Trained,40.2,Other,Diabetes,20:02,Yes,111648,24
-75,8749,61472,Married,NCE,Female,27,Biology,B.Sc. Education,Yes,Not Trained,28.5,Hearing Impairment,Heart Disease,05:30,Yes,290603,29
-76,3539,35715,Single,NCE,Male,56,Chemistry,B.Sc. Environmental Science,Yes,Not Trained,38.97,Other,Sickle Cell,18:18,Yes,163694,5
-77,7520,87236,Single,M.Ed,Female,44,Agricultural Science,B.Sc. Computer Science,Yes,Not Trained,11.32,Other,Diabetes,01:18,Yes,246491,6
-78,2928,67898,Divorced,B.Ed,Female,59,Integrated Science,B.Sc. Chemistry,Yes,Trained,23.28,Physical Disability,Diabetes,18:47,No,169534,1
-79,8490,65601,Divorced,NCE,Female,32,Financial Accounting,B.Sc. Banking and Finance,No,Not Trained,28.2,Physical Disability,Asthma,16:20,Yes,245869,19
-80,7843,42311,Married,PhD,Female,60,Mathematics,B.Sc. Banking and Finance,No,Not Trained,2.95,Other,Heart Disease,18:43,Yes,251033,16
-81,1500,14877,Divorced,PhD,Male,58,Financial Accounting,M.Ed.,Yes,Not Trained,12.18,None,None,14:17,No,268549,29
-82,8241,43084,Married,B.Ed,Male,50,Computer Science,B.Sc. Environmental Science,Yes,Not Trained,22.92,Other,Sickle Cell,11:39,No,102094,12
-83,3849,97062,Divorced,PhD,Male,49,Entrepreneurship,B.Sc. Commerce,No,Not Trained,14.17,Physical Disability,Other,04:41,Yes,297544,16
-84,4537,69598,Divorced,B.Ed,Male,31,Health Science,B.A. Literature,No,Not Trained,45.48,Hearing Impairment,None,13:05,No,234283,20
-85,6070,27224,Married,B.Ed,Female,30,Civic Education,B.Sc. Insurance,No,Trained,28.05,Other,Asthma,14:05,Yes,156059,6
-86,4737,54548,Single,M.Ed,Female,48,Drama/Theatre Arts,B.A. History,No,Trained,49.06,Hearing Impairment,Heart Disease,01:27,Yes,68391,2
-87,9519,14696,Single,M.Ed,Male,60,Fine Arts,B.A. Theatre Arts,Yes,Not Trained,2.33,None,Diabetes,07:33,Yes,128427,10
-88,4610,35928,Widowed,B.Ed,Female,58,Marketing,B.A. Fine Arts,No,Trained,15.91,Visual Impairment,Heart Disease,14:31,Yes,238590,20
-89,6337,61007,Divorced,B.Ed,Male,26,Office Practice,B.A. Music,No,Trained,43.48,None,None,12:25,Yes,296969,10
-90,6927,61873,Divorced,PhD,Male,29,Economics,B.Sc. Accounting,No,Not Trained,46.48,Visual Impairment,Diabetes,10:35,No,66374,23
-91,4997,27367,Widowed,M.Ed,Male,56,Mathematics,B.Sc. Health Science,No,Not Trained,13.13,Visual Impairment,Heart Disease,23:05,No,124411,3
-92,9523,35415,Single,B.Ed,Female,29,English,B.Sc. Physics,Yes,Trained,2.31,Hearing Impairment,Asthma,23:13,Yes,180795,21
-93,3269,40339,Divorced,B.Ed,Female,57,History,B.Sc. Financial Accounting,No,Not Trained,38.01,Other,Asthma,10:24,No,226481,25
-94,1286,24790,Divorced,B.Ed,Male,53,Accounting,B.Sc. Insurance,No,Not Trained,44.5,Physical Disability,Diabetes,20:21,No,158540,14
-95,5664,88974,Divorced,PhD,Female,33,Further Mathematics,M.Ed.,Yes,Not Trained,48.19,None,Asthma,13:06,No,70065,7
-96,1050,25095,Divorced,B.Ed,Male,54,Financial Accounting,B.A. Linguistics,Yes,Not Trained,27.33,Hearing Impairment,Hypertension,00:33,Yes,208814,4
-97,6647,36406,Single,B.Ed,Male,25,Computer Science,B.Sc. Laboratory Science,No,Trained,18.26,Other,Other,05:11,Yes,125641,25
-98,7676,27477,Divorced,M.Ed,Male,30,Insurance,B.Sc. Biology,No,Trained,33.54,Visual Impairment,Other,17:22,Yes,282054,11
-99,2930,98542,Divorced,NCE,Female,36,Physics,B.Sc. Education,No,Not Trained,28.69,Physical Disability,Asthma,00:09,Yes,145630,28
+Teacher_ID,Student_ID,Marital_Status,Education_Level,Gender,Age,Subject_Taught,Degree,Parental_Status,Teacher_Training,Distance_From_Home_to_School_km,Disability,Health_Issue,Resumption_Time,Have_Lesson_Note,Salary_NGN,Teaching_Experience_Years
+8950,51681,Single,PhD,Male,35,Commerce,B.A. Religious Studies,No,Trained,18.56,None,None,18:28,Yes,107433,8
+7954,18834,Widowed,M.Ed,Male,47,Education,B.Sc. Economics,No,Trained,28.68,None,None,20:58,No,216557,23
+3336,81511,Single,M.Ed,Male,33,CRS,B.Sc. Financial Accounting,Yes,Not Trained,24.66,None,None,15:55,Yes,57479,26
+4454,30056,Single,M.Ed,Female,28,Fine Arts,B.Sc. Physics,Yes,Trained,17.17,None,None,19:21,Yes,217837,11
+9593,49384,Single,NCE,Male,27,English,B.Sc. Environmental Science,No,Not Trained,48.17,None,None,19:29,No,114184,17
+5321,12631,Widowed,NCE,Female,41,Music,B.Sc. Environmental Science,No,Trained,43.06,None,None,1:04,No,236765,12
+5757,26912,Divorced,M.Ed,Female,40,Biology,B.A. Religious Studies,No,Not Trained,48.55,None,None,3:50,No,178875,4
+1660,24869,Divorced,NCE,Male,36,English,B.Sc. Accounting,Yes,Not Trained,18.36,None,None,17:41,No,247447,25
+2897,57537,Divorced,NCE,Female,27,Further Mathematics,B.Sc. Biology,No,Trained,33.3,None,None,1:48,No,183757,4
+4966,65872,Widowed,NCE,Male,29,Financial Accounting,B.Sc. Agricultural Science,No,Not Trained,28.6,None,None,7:34,No,292960,24
+5980,75179,Widowed,M.Ed,Male,59,History,M.Ed.,Yes,Trained,13.36,None,None,17:29,No,134068,5
+1081,83899,Widowed,M.Ed,Male,35,IRS,B.A. Linguistics,Yes,Not Trained,7.82,None,None,22:11,Yes,188286,7
+9647,41891,Divorced,B.Ed,Male,57,CRS,PGDE,No,Not Trained,46.52,None,None,6:12,Yes,294038,26
+8330,17944,Widowed,PhD,Female,32,Biology,B.Sc. Financial Accounting,No,Not Trained,0.72,None,None,2:01,No,76972,31
+4179,22249,Married,B.Ed,Male,34,Integrated Science,B.A. History,Yes,Trained,2.36,None,None,2:07,Yes,291100,27
+6613,95323,Divorced,M.Ed,Male,43,Drama/Theatre Arts,B.Sc. Office Management,No,Not Trained,38.18,None,None,15:09,No,120342,1
+5889,85225,Single,M.Ed,Male,55,Government,B.A. Civic Education,No,Trained,25.47,None,None,20:17,No,225463,22
+4889,49722,Single,PhD,Male,50,CRS,B.Sc. Physics,Yes,Not Trained,33.48,None,None,1:37,No,252822,18
+8813,56636,Widowed,B.Ed,Male,51,Commerce,B.Sc. Accounting,Yes,Trained,0.58,None,None,17:55,No,227315,16
+9660,26704,Widowed,NCE,Male,52,IRS,B.A. Fine Arts,No,Trained,22.88,None,None,5:18,No,231884,22
+3236,72140,Divorced,NCE,Female,54,Civic Education,B.Sc. Financial Accounting,Yes,Trained,12.72,None,None,10:10,No,279726,10
+7675,76132,Divorced,NCE,Female,57,Computer Science,B.Sc. Physics,No,Trained,37.41,None,None,21:22,No,218397,26
+1755,62727,Divorced,PhD,Female,38,Fine Arts,B.Ed.,Yes,Trained,21.76,None,None,12:06,No,131779,9
+4472,37631,Single,B.Ed,Female,26,Education,B.Sc. Education,Yes,Trained,42.46,None,None,14:00,No,217129,5
+4829,91885,Widowed,M.Ed,Female,37,CRS,B.A. Fine Arts,Yes,Not Trained,47.15,None,None,10:42,No,276533,20
+7132,20350,Single,M.Ed,Female,31,English,B.A. Religious Studies,No,Trained,3.8,None,None,20:04,Yes,83261,29
+3033,67912,Widowed,B.Ed,Female,56,Insurance,B.Sc. Commerce,No,Trained,47.83,None,None,14:25,Yes,297575,6
+1874,26704,Widowed,B.Ed,Female,35,Physics,B.Sc. Computer Science,No,Not Trained,5.42,None,None,23:57,No,198558,1
+2678,64819,Widowed,NCE,Female,42,History,M.Ed.,Yes,Not Trained,43.97,None,None,4:11,No,187367,9
+7071,38221,Single,B.Ed,Male,28,Computer Science,B.Sc. Business Administration,Yes,Not Trained,2.18,None,None,12:06,No,273931,16
+8397,24170,Married,B.Ed,Female,38,Music,B.A. History,No,Not Trained,20.66,None,None,13:22,Yes,236319,12
+1295,33652,Single,PhD,Female,55,Education,B.Sc. Agricultural Science,No,Not Trained,24.51,None,None,10:05,Yes,102276,32
+1778,38657,Married,B.Ed,Male,47,Government,B.Sc. Insurance,No,Trained,23.84,None,None,3:56,Yes,157016,7
+9313,11257,Divorced,PhD,Female,30,History,B.A. English,Yes,Trained,7.64,None,None,11:12,Yes,189494,3
+7033,53406,Married,M.Ed,Female,38,Agricultural Science,B.Sc. Banking and Finance,No,Not Trained,2.5,None,None,9:53,No,172542,31
+2062,14799,Married,B.Ed,Female,56,Government,B.Sc. Biology,No,Not Trained,3.49,None,None,3:20,Yes,157427,16
+5740,11581,Single,NCE,Female,51,Marketing,B.Sc. Physics,No,Not Trained,14.58,None,None,2:03,No,80004,9
+5681,59412,Single,M.Ed,Male,59,IRS,B.A. Fine Arts,Yes,Trained,21.86,None,None,22:32,No,213594,22
+3978,61851,Married,B.Ed,Female,41,Drama/Theatre Arts,B.Sc. Economics,Yes,Not Trained,15.33,None,None,10:43,No,55529,29
+1258,90460,Married,PhD,Female,58,Banking and Finance,B.Sc. Financial Accounting,Yes,Not Trained,17.68,None,None,19:54,No,170582,24
+8423,20271,Divorced,B.Ed,Male,32,Health Science,B.A. History,No,Trained,47.11,None,Hypertension,5:41,Yes,132114,9
+5181,49318,Single,B.Ed,Female,44,Education,B.Sc. Biology,No,Not Trained,35.53,None,Sickle Cell,14:23,Yes,56182,8
+3713,96305,Widowed,NCE,Female,31,Drama/Theatre Arts,B.A. Fine Arts,No,Trained,47.08,None,Sickle Cell,1:17,Yes,133058,12
+7600,35265,Single,NCE,Female,49,Accounting,B.Sc. Insurance,Yes,Trained,26.1,None,Sickle Cell,22:09,Yes,153764,16
+7893,97304,Divorced,M.Ed,Female,56,Fine Arts,B.Sc. Financial Accounting,Yes,Trained,40.73,None,Hypertension,21:12,No,70597,3
+7158,51709,Divorced,B.Ed,Female,31,Office Practice,B.Sc. Computer Science,Yes,Trained,9.55,None,Hypertension,12:20,No,75990,13
+5856,74251,Single,M.Ed,Male,60,Entrepreneurship,B.A. Literature,Yes,Trained,31.06,None,Other,20:01,Yes,293715,20
+8474,81781,Married,NCE,Male,43,Mathematics,B.Sc. Office Management,Yes,Trained,47.66,None,None,5:42,No,237851,33
+2468,68121,Married,PhD,Female,45,CRS,B.Sc. Commerce,No,Not Trained,32.35,None,None,18:25,Yes,141000,4
+9555,88215,Single,PhD,Male,29,Computer Science,B.Sc. Chemistry,Yes,Trained,40.44,None,Diabetes,4:51,Yes,298426,21
+5842,42768,Married,B.Ed,Male,34,CRS,M.Ed.,Yes,Not Trained,14.52,None,Heart Disease,20:57,Yes,252439,27
+3378,79176,Single,B.Ed,Female,25,Business Studies,B.Sc. Business Administration,No,Not Trained,5.18,None,Diabetes,11:46,No,142550,17
+9769,38972,Married,PhD,Female,57,Biology,B.Sc. Commerce,No,Not Trained,4.88,None,Heart Disease,0:12,No,145371,14
+6999,91885,Divorced,PhD,Male,42,Agricultural Science,PGDE,No,Trained,17.69,None,Heart Disease,6:17,Yes,260563,6
+7293,59996,Divorced,PhD,Male,52,Drama/Theatre Arts,B.Sc. Economics,Yes,Trained,43.17,None,Diabetes,5:21,No,75395,29
+5066,21053,Married,M.Ed,Female,47,Business Studies,B.A. History,Yes,Not Trained,25.14,None,Other,3:58,Yes,61368,9
+3407,36171,Single,PhD,Female,40,Chemistry,B.Ed.,Yes,Not Trained,30.23,None,None,3:44,Yes,179428,6
+6412,23955,Married,B.Ed,Male,57,IRS,B.Ed.,No,Trained,7.61,None,Hypertension,17:38,Yes,294013,4
+2686,48890,Widowed,PhD,Male,46,Government,PGDE,No,Trained,11.22,None,Asthma,14:52,No,128384,18
+5823,37884,Married,PhD,Female,30,Further Mathematics,B.Sc. Agricultural Science,No,Trained,43.44,None,None,13:14,No,261444,26
+1348,81496,Single,PhD,Male,41,Music,B.Sc. Banking and Finance,No,Not Trained,32.41,None,Other,0:58,No,206017,14
+9199,96194,Married,NCE,Male,27,Education,B.Sc. Office Management,Yes,Not Trained,37.83,None,Asthma,3:32,No,213994,5
+6072,23432,Divorced,M.Ed,Female,48,Computer Science,PGDE,No,Trained,41.85,None,Diabetes,8:10,Yes,192870,5
+4185,64890,Single,PhD,Female,50,Government,B.Sc. Physics,No,Not Trained,23.55,None,Sickle Cell,4:13,Yes,82144,34
+3869,71694,Divorced,NCE,Male,59,Physics,B.Sc. Financial Accounting,No,Trained,0.96,None,Diabetes,2:03,Yes,197430,25
+4119,65591,Single,M.Ed,Male,43,Health Science,B.Sc. Commerce,Yes,Not Trained,19.3,None,None,8:14,No,186627,30
+2775,44365,Widowed,B.Ed,Male,47,Economics,B.Sc. Biology,Yes,Not Trained,34.14,None,Asthma,3:03,Yes,155229,2
+4030,82368,Divorced,M.Ed,Male,38,Commerce,B.Sc. Computer Science,Yes,Not Trained,32.48,None,Diabetes,8:01,No,258464,5
+4654,92447,Widowed,PhD,Male,41,Marketing,PGDE,Yes,Not Trained,7.52,None,Sickle Cell,22:56,Yes,247976,35
+3314,41034,Married,M.Ed,Male,28,Literature,B.Sc. Insurance,Yes,Trained,12.4,None,Hypertension,7:30,No,208802,32
+8043,13527,Married,PhD,Male,31,Health Science,B.A. Theatre Arts,Yes,Trained,38.06,None,None,21:21,Yes,278839,35
+7622,88222,Married,M.Ed,Female,28,Further Mathematics,B.A. Linguistics,Yes,Not Trained,48.18,None,Hypertension,4:18,No,149911,14
+1897,37152,Married,NCE,Male,54,Education,B.Ed.,Yes,Trained,49.56,None,Asthma,0:27,Yes,282146,23
+7681,56627,Widowed,PhD,Female,48,Commerce,B.A. History,Yes,Trained,38.03,None,Heart Disease,7:06,Yes,77368,2
+1376,99417,Single,B.Ed,Male,36,Accounting,B.A. Literature,Yes,Not Trained,9.8,None,None,20:02,Yes,72647,21
+8749,15224,Married,M.Ed,Female,60,Agricultural Science,B.Sc. Agricultural Science,Yes,Not Trained,28.3,None,Other,5:30,No,147577,20
+3539,15167,Married,PhD,Female,53,Drama/Theatre Arts,B.Ed.,No,Trained,45.32,None,None,18:18,No,195439,19
+7520,83792,Widowed,PhD,Female,55,Physics,B.Sc. Insurance,No,Trained,33.51,None,Other,1:18,No,188348,24
+2928,56961,Married,NCE,Male,35,Banking and Finance,PGDE,No,Not Trained,33.16,None,None,18:47,Yes,209429,13
+8490,47070,Single,PhD,Male,33,Drama/Theatre Arts,B.Sc. Economics,Yes,Not Trained,17.02,None,Sickle Cell,16:20,Yes,57212,7
+7843,65448,Single,M.Ed,Male,46,Literature,B.A. Theatre Arts,No,Trained,23.37,None,None,18:43,No,66812,7
+1500,33021,Widowed,PhD,Female,55,Government,B.Sc. Economics,Yes,Not Trained,18.54,None,Diabetes,14:17,Yes,177925,15
+8241,15930,Married,B.Ed,Male,45,English,B.Sc. Entrepreneurship,No,Not Trained,7.37,None,Other,11:39,No,68850,7
+3849,33176,Single,B.Ed,Male,28,Education,B.A. Theatre Arts,No,Not Trained,15.56,None,Diabetes,4:41,No,242410,10
+4537,10282,Divorced,NCE,Female,33,Commerce,B.Ed.,No,Trained,24.41,None,Hypertension,13:05,No,181805,23
+6070,21913,Widowed,PhD,Male,36,Office Practice,B.Sc. Entrepreneurship,Yes,Trained,2.47,None,Hypertension,14:05,No,164918,19
+4737,98346,Widowed,PhD,Male,46,English,B.Sc. Mathematics,No,Trained,26.29,None,None,1:27,Yes,268594,29
+9519,69609,Widowed,B.Ed,Male,40,Business Studies,B.Sc. Financial Accounting,Yes,Trained,35.04,None,Diabetes,7:33,Yes,83048,1
+4610,13280,Married,PhD,Female,32,Civic Education,B.Sc. Physics,No,Trained,34.51,None,Other,14:31,No,205369,32
+6337,68979,Single,NCE,Female,35,Further Mathematics,B.Sc. Commerce,No,Not Trained,22.61,None,None,12:25,No,169598,13
+6927,46208,Married,M.Ed,Male,36,Music,B.Sc. Commerce,No,Not Trained,6.92,Other,Asthma,10:35,No,286945,17
+4997,93354,Single,B.Ed,Female,55,Health Science,PGDE,No,Trained,43.83,Physical Disability,Asthma,23:05,Yes,52055,7
+9523,24790,Widowed,NCE,Female,35,Physics,B.A. History,Yes,Not Trained,43.94,Physical Disability,None,23:13,No,265915,16
+3269,51071,Single,NCE,Male,48,Economics,B.A. Linguistics,Yes,Trained,18.42,Other,Other,10:24,No,70759,23
+1286,40595,Divorced,NCE,Female,42,Further Mathematics,B.Sc. Business Administration,No,Not Trained,11.06,Physical Disability,Asthma,20:21,No,241163,2
+5664,25650,Widowed,NCE,Male,43,Fine Arts,B.Sc. Office Management,Yes,Not Trained,8.3,Other,Asthma,13:06,No,98787,22
+1050,75211,Widowed,NCE,Male,48,Agricultural Science,B.A. Theatre Arts,No,Trained,42.21,Physical Disability,Other,0:33,No,281266,18
+6647,85223,Single,NCE,Female,45,Financial Accounting,B.A. Religious Studies,Yes,Trained,15.7,Other,Hypertension,5:11,Yes,158696,1
+7676,75107,Widowed,PhD,Male,25,Biology,B.A. English,Yes,Trained,28.15,Physical Disability,Other,17:22,No,182910,29
+2930,33206,Widowed,PhD,Male,40,Music,B.Sc. Entrepreneurship,Yes,Not Trained,8.22,Other,Diabetes,0:09,No,106047,27
