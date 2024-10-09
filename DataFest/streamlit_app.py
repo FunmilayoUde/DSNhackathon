@@ -32,6 +32,7 @@ disability = st.selectbox('Disability', ['Yes', 'No'])
 health_issue = st.selectbox('Health Issue', ['Yes', 'No'])
 resumption_time = st.text_input('Resumption Time (e.g. 8:00 AM)')
 have_lesson_note = st.selectbox('Has Lesson Note', ['Yes', 'No'])
+special_needs = st.selectbox('Special Needs', ['Yes', 'No'])
 
 # Numerical features
 parent_income = st.number_input('Parent Income (₦)', min_value=0)
@@ -54,17 +55,22 @@ age = st.number_input('Age (Years)', min_value=0)
 years_since_admission = st.number_input('Years Since Admission', min_value=0)
 
 # Collect the features into a list in the order the model expects
-features = [
-    gender_x, class_section, class_level, religion, tribe, state_of_origin, parent_occupation,
-    parent_income, attendance_rate, school_extracurricular, teacher_student_ratio,
-    average_teacher_experience, average_class_size, school_funding_per_student, parental_involvement_score,
-    school_facilities_rating, internet_access, school_distance_from_home, student_attendance_rate,
-    disciplinary_actions, student_performance_score, activity_type, activity_category, frequency_of_participation,
-    duration_per_session, impact_on_performance, teacher_supervisor, parental_support, marital_status, education_level,
-    gender_y, age, subject_taught, degree, parental_status, teacher_training, distance_from_home_to_school,
-    disability, health_issue, resumption_time, have_lesson_note, salary_ngn, teaching_experience_years, years_since_admission
-]
-
+features = ['Gender_x', 'Class_Section', 'Class_Level', 'Religion', 'Tribe',
+       'State_of_Origin', 'Parent_Occupation', 'Parent_Income',
+       'Attendance_Rate', 'Special_Needs', 'Teacher_Student_Ratio',
+       'Average_Teacher_Experience_Years', 'Average_Class_Size',
+       'School_Funding_Per_Student', 'School_Extracurricular_Activities',
+       'Parental_Involvement_Score', 'School_Facilities_Rating',
+       'Internet_Access_In_School', 'School_Distance_From_Home_km',
+       'Student_Attendance_Rate', 'Disciplinary_Actions_Taken',
+       'Student_Performance_Score', 'Activity_Type', 'Activity_Category',
+       'Frequency_of_Participation', 'Duration_per_Session (Hours)',
+       'Impact_on_Performance', 'Teacher_Supervisor', 'Parental_Support',
+       'Marital_Status', 'Education_Level', 'Gender_y', 'Age',
+       'Subject_Taught', 'Degree', 'Parental_Status', 'Teacher_Training',
+       'Distance_From_Home_to_School_km', 'Disability', 'Health_Issue',
+       'Resumption_Time', 'Have_Lesson_Note', 'Salary_NGN',
+       'Teaching_Experience_Years', 'Years_Since_Admission']
 # Button to trigger prediction
 if st.button('Predict'):
     # Send the features to the FastAPI backend via a POST request
