@@ -76,3 +76,4 @@ if st.button('Predict'):
         st.success(f"Predicted Academic Performance: {prediction}")
     else:
         st.error("Failed to get prediction. Please try again.")
+
