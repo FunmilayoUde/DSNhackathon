@@ -15,22 +15,24 @@ app = FastAPI()
 class PredictRequest(BaseModel):
     features: list  
 
-feature_columns = ['Gender_x', 'Class_Section', 'Class_Level', 'Religion', 'Tribe',
-       'State_of_Origin', 'Parent_Occupation', 'Parent_Income',
-       'Attendance_Rate', 'Special_Needs', 'Teacher_Student_Ratio',
-       'Average_Teacher_Experience_Years', 'Average_Class_Size',
-       'School_Funding_Per_Student', 'School_Extracurricular_Activities',
-       'Parental_Involvement_Score', 'School_Facilities_Rating',
-       'Internet_Access_In_School', 'School_Distance_From_Home_km',
-       'Student_Attendance_Rate', 'Disciplinary_Actions_Taken',
-       'Student_Performance_Score', 'Activity_Type', 'Activity_Category',
-       'Frequency_of_Participation', 'Duration_per_Session (Hours)',
-       'Impact_on_Performance', 'Teacher_Supervisor', 'Parental_Support',
-       'Marital_Status', 'Education_Level', 'Gender_y', 'Age',
-       'Subject_Taught', 'Degree', 'Parental_Status', 'Teacher_Training',
-       'Distance_From_Home_to_School_km', 'Disability', 'Health_Issue',
-       'Resumption_Time', 'Have_Lesson_Note', 'Salary_NGN',
-       'Teaching_Experience_Years', 'Years_Since_Admission']
+feature_columns = [
+    "Gender",                        "Category",                   "Education_Level",      "Religion",              "Ethnicity",
+    "State_of_Origin",               "Occupation",                 "Income",               "Exam_Score",           "Has_Credit",
+    "Age",                           "Dependents",                 "Years_of_Work_Experience", "Monthly_Expense",    "Owns_House",
+    "Family_Size",                   "Children",                   "Has_Car",             "Rooms",                "Last_Exam_Score",
+    "Fail_Count",                    "Study_Hours",                "Favorite_Sport",      "Learning_Type",        "Exercise_Frequency",
+    "Days_Exercised",                "Mood",                       "Has_Friends",         "Family_Strength",      "Marital_Status",
+    "Degree",                        "Father's_Gender",           "Father's_Age",        "Subject",              "Parent_Degree",
+    "Parent_Paid_Tuition",           "Parent_Available",          "Household_Size",      "Household_Earnings",   "Has_Electricity",
+    "School_Start_Time",             "Living_With_Parents",       "Income_Limit",        "Homework_Hours",       "Test_Score",
+    "Disciplinary_Actions_Taken",    "Student_Attendance_Rate",    "Health_Issue",       "Distance_From_Home_to_School_km", "Parental_Support",
+    "Have_Lesson_Note",              "Teacher_Training",          "Salary_NGN",          "Duration_per_Session (Hours)", "Parental_Involvement_Score",
+    "Tribe",                         "Average_Teacher_Experience_Years", "School_Facilities_Rating", "Teaching_Experience_Years", "Subject_Taught",
+    "Resumption_Time",               "Special_Needs",             "Parent_Occupation",   "Attendance_Rate",      "School_Distance_From_Home_km",
+    "Teacher_Student_Ratio",         "Activity_Category",          "School_Funding_Per_Student", "Student_Performance_Score", "Class_Level",
+    "Parental_Status",               "Gender_y",                  "Activity_Type",       "Internet_Access_In_School", "Parent_Income",
+    "School_Extracurricular_Activities", "Average_Class_Size",     "Impact_on_Performance", "Frequency_of_Participation", "Disability",
+    "Gender_x",                      "Class_Section",             "Teacher_Supervisor" ]
 
 # Prediction endpoint
 @app.post("/predict")
